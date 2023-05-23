@@ -17,9 +17,27 @@ body{
     align-items: center;
   }
 
+  a{
+    text-decoration: none;
+  }
   .links{
     list-style-type: none;  
-    text-decoration: none;
     display: flex;
     gap: 20px;
   }
+
+  .firstsection{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .rightone{
+    flex: 1;
+  }
+
+  .leftone{
+    flex: 1;
+  }
+  

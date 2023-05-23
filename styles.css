@@ -26,6 +26,12 @@ body{
     gap: 20px;
   }
 
+  .firstcenter{
+    display: flex;
+    margin: 200px;
+  }
+
+
   .firstsection{
     display: flex;
     justify-content: space-around;
@@ -33,11 +39,10 @@ body{
     align-items: center;
   }
 
-  .rightone{
+
+  .rightone, .leftone{
     flex: 1;
   }
 
-  .leftone{
-    flex: 1;
-  }
+  
   

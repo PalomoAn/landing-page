@@ -81,3 +81,19 @@ img {
   width: 400px;
   height: 400px;
 }
+
+.quote{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 300px;
+  margin-right: 300px;
+  
+}
+
+i{
+  text-align: center;
+}
+
+p{
+  text-align: end;
+}

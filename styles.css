@@ -83,8 +83,8 @@ img {
 }
 
 .quote{
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-top: 200px;
+  margin-bottom: 200px;
   margin-left: 300px;
   margin-right: 300px;
   
@@ -97,3 +97,4 @@ i{
 p{
   text-align: end;
 }
+
